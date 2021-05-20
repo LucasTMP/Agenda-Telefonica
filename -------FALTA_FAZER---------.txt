@@ -1,0 +1,5 @@
+*Pesquisar nao puxar telefones pessoais de outros usuarios
+*Melhorar Layout
+*Criar verificação de desempenho
+*Criar segurança maior
+*Atualizar telefones

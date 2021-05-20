@@ -1,0 +1,234 @@
+If TabStrip2.SelectedItem = TabStrip2.Tabs(1) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'A%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(2) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'B%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(3) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'C%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(4) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'D%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(5) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'E%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(6) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'F%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(7) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'G%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(8) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'H%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(9) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'I%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(10) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'J%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(11) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'K%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(12) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'L%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(13) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'M%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(14) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'N%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(15) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'O%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(16) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'P%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(17) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'Q%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(18) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'R%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(19) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'S%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(20) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'T%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(21) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'U%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(22) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'V%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(23) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'W%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(24) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'x%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(25) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'Y%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
+
+If TabStrip2.SelectedItem = TabStrip2.Tabs(26) Then
+
+rs.CursorLocation = adUseClient
+rs.Open "Select NOME, NUMERO from Interna WHERE NOME like 'Z%'", db, 3, 3
+Set tel.DataSource = rs
+Set rs = Nothing
+
+End If
